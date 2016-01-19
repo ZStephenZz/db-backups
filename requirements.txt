@@ -1,0 +1,2 @@
+tinys3==0.1.11
+configparser==3.3.0.post2
